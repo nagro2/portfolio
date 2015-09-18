@@ -5,7 +5,7 @@ body {
 background-image: url("https://www.dropbox.com/s/w473hycucbaejnj/new-york-skyline-01.jpg?raw=1");
 background-size: 1500px 960px;
 background-repeat: no-repeat;
-background-color: #454545;
+background-color: #656565;
 }
 .footer_c{
 position:fixed;

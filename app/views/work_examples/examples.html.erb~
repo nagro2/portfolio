@@ -16,7 +16,6 @@
           <ul class="nav navbar-nav">
             <li class="active"><a href="/">Welcome</a></li>
             <li><a href="#about">Portfolio</a></li>
-            <li><a href="#contact">Blog</a></li>
             <li><a href="#contact">About</a></li>
             <li><a href="#contact">Contact</a></li>
 
@@ -32,27 +31,40 @@
       <!-- Main jumbotron for a primary marketing message or call to action -->
       <div class="jumbotron">
         <div id="jumbotron2">
-        <h1>Nicholas Agro</h1>
-        <p>Work Examples (Please pardon this beta version, more examples coming soon...)</p>
+        <br></br>
+        <p>Here are a few examples of my work. More examples are coming, please check back soon...</p>
 			</div>
       </div>
 
 
-<a  href="https://nameless-temple-7233.herokuapp.com/articles" target="_blank"> <img class="screenshot1" src="https://www.dropbox.com/s/47kxkswthta7mzx/Sketcher.jpg?raw=1"></a>
+<a  href="https://nameless-temple-7233.herokuapp.com/articles" target="_blank"> <img class="screenshot1" src="https://www.dropbox.com/s/o70ptb6ak2zub4w/Blogger.jpg?raw=1"></a>
+<p class= description_of_app>A blogging application authored in Rails. Blog entries and other information are stored in sqlite databases, which are controlled by Rails models. Articles can be tagged by category, and can have comments from readers.  Includes tools to create, delete and edit articles. User authentication is implemented with Sorcery. I created this during the Jumpstart Labs unit on Rails.</p>
 <br><br>
 
 <a  href="http://htmlpreview.github.io/?https://github.com/nagro2/gallery_jq/blob/master/index.html" target="_blank"> <img class="screenshot1" src="https://www.dropbox.com/s/47kxkswthta7mzx/Sketcher.jpg?raw=1"></a>
+<p class = description_of_app>A simple sketcher application authored in javascript and using jquery. Vertical and horizontal resolution of the sketch can be configured by the user. I created this for a project assigned by the Odin Project in the javascript/jquery unit.</p>
 <br><br>
 
 <a  href="http://htmlpreview.github.io/?https://github.com/nagro2/google_homepage/blob/master/index.html" target="_blank"> <img class="screenshot1" src="https://www.dropbox.com/s/kob4jfkr8t36dkh/google_homepage.jpg?raw=1"></a>
+<p = class = description_of_app>A google homepage clone. I completed this for a project assigned by the Odin Project in the HTML/CSS unit. The objective of the project was to use a CSS stylesheet to control the elements of a web page. Features include statically positioned top and bottom headers, icons, a textbox, and more.</p>
 <br><br>
 
 <a  href="http://htmlpreview.github.io/?https://github.com/nagro2/Project-Euler-solutions/blob/master/problem1.html" target="_blank"> <img class="screenshot1" src="https://www.dropbox.com/s/be03uyim3ghkw7n/Euler-Odin%20Problem%201.jpg?raw=1"></a>
+<p class = description_of_app>A Euler Project solution to the problem "Finding the sum of all multiples of 3 or 5 below 1000". The script runs as an embedded javascript program and displays the result on the webpage. I created this for a project assigned by the Odin Project in the javascript unit.</p>
 <br><br>
 
 <a  href="http://htmlpreview.github.io/?https://github.com/nagro2/Project-Euler-solutions/blob/master/problem2.html" target="_blank"> <img class="screenshot1" src="https://www.dropbox.com/s/nsupgx135kgthmo/Euler-Odin%20Problem%202.jpg?raw=1"></a>
+<p class = description_of_app>A Euler Project solution to the problem "Even Fibonacci Numbers". The script runs as an embedded javascript program and displays the result on the webpage. I created this for a project assigned by the Odin Project in the javascript unit.</p>
 <br><br>
 
-<a  href="http://htmlpreview.github.io/?https://github.com/nagro2/Project-Euler-solutions/blob/master/problem2.html" target="_blank"> <img class="screenshot1" src="https://www.dropbox.com/s/d9qewrtpt2yfkw6/Euler-Odin%20Problem%203.jpg?raw=1"></a>
-      
+<a  href="http://htmlpreview.github.io/?https://github.com/nagro2/Project-Euler-solutions/blob/master/problem3.html" target="_blank"> <img class="screenshot1" src="https://www.dropbox.com/s/d9qewrtpt2yfkw6/Euler-Odin%20Problem%203.jpg?raw=1"></a>
+<p class = description_of_app>A Euler Project solution to the problem "Largest Prime Factor". The script runs as an embedded javascript program and displays the result on the webpage. The Odin Project assignment modifies the requirements of the Euler Project problem by stating " just solve for numbers smaller than 1,000 and don't worry about making it efficient".</p>
+<br><br><br><br>
+
+
+<a  href="http://htmlpreview.github.io/?https://github.com/nagro2/Project-Euler-solutions/blob/master/problem3.html" target="_blank"> <img class="screenshot1" src="https://www.dropbox.com/s/qusdbz4ln74mp54/D40TetherQD.jpg?raw=1"></a>
+<p class = description_of_app>A Python script to control my Nikon D40 camera. Please note that I created this script very quickly for my own use, hence Quick and Dirty". It obtains values for aperture and shutter speed from the D40 and modifies these under GUI control. It has modes for single and multi photo sequences and it can automatically display each photo after it is downloaded to the computer. Interface with the camera is through gphoto2 commands via the bash shell. GUI is implemented with Tkinter.</p>
+<br><br><br><br>
+
 <div class="footer_c"> <div class="container">  <p>&copy; 2015 Nicholas Agro</p> </div>
+
