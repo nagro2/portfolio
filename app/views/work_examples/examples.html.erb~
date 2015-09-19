@@ -38,33 +38,62 @@
 
 
 <a  href="https://nameless-temple-7233.herokuapp.com/articles" target="_blank"> <img class="screenshot1" src="https://www.dropbox.com/s/o70ptb6ak2zub4w/Blogger.jpg?raw=1"></a>
-<p class= description_of_app>A blogging application authored in Rails. Blog entries and other information are stored in sqlite databases, which are controlled by Rails models. Articles can be tagged by category, and can have comments from readers.  Includes tools to create, delete and edit articles. User authentication is implemented with Sorcery. I created this during the Jumpstart Labs unit on Rails.</p>
+<p class= description_of_app><b>Blogger</b> - A blogging application authored in Rails. Blog entries and other information are stored in sqlite databases, which are controlled by Rails models. Articles can be tagged by category, and can have comments from readers.  Includes tools to create, delete and edit articles. User authentication is implemented with Sorcery. I created this during the Jumpstart Labs unit on Rails.
+<br><a  href="https://github.com/nagro2/blogger-odin" target="_blank">View Source Code</a>
+</p>
 <br><br>
 
 <a  href="http://htmlpreview.github.io/?https://github.com/nagro2/gallery_jq/blob/master/index.html" target="_blank"> <img class="screenshot1" src="https://www.dropbox.com/s/47kxkswthta7mzx/Sketcher.jpg?raw=1"></a>
-<p class = description_of_app>A simple sketcher application authored in javascript and using jquery. Vertical and horizontal resolution of the sketch can be configured by the user. I created this for a project assigned by the Odin Project in the javascript/jquery unit.</p>
+<p class = description_of_app><b>Sketcher</b> - A simple sketcher application authored in javascript and using jquery. Vertical and horizontal resolution of the sketch can be configured by the user. I created this for a project assigned by the Odin Project in the javascript/jquery unit.
+<br><a  href="https://github.com/nagro2/sketcher" target="_blank">View Source Code</a>
+</p>
 <br><br>
 
 <a  href="http://htmlpreview.github.io/?https://github.com/nagro2/google_homepage/blob/master/index.html" target="_blank"> <img class="screenshot1" src="https://www.dropbox.com/s/kob4jfkr8t36dkh/google_homepage.jpg?raw=1"></a>
-<p = class = description_of_app>A google homepage clone. I completed this for a project assigned by the Odin Project in the HTML/CSS unit. The objective of the project was to use a CSS stylesheet to control the elements of a web page. Features include statically positioned top and bottom headers, icons, a textbox, and more.</p>
+<p = class = description_of_app><b>Google Homepage Clone</b> - I completed this for a project assigned by the Odin Project in the HTML/CSS unit. The objective of the project was to use a CSS stylesheet to control the elements of a web page. Features include statically positioned top and bottom headers, icons, a textbox, and more.
+<br><a  href="https://github.com/nagro2/google_homepage" target="_blank">View Source Code</a>
+</p>
 <br><br>
 
 <a  href="http://htmlpreview.github.io/?https://github.com/nagro2/Project-Euler-solutions/blob/master/problem1.html" target="_blank"> <img class="screenshot1" src="https://www.dropbox.com/s/be03uyim3ghkw7n/Euler-Odin%20Problem%201.jpg?raw=1"></a>
-<p class = description_of_app>A Euler Project solution to the problem "Finding the sum of all multiples of 3 or 5 below 1000". The script runs as an embedded javascript program and displays the result on the webpage. I created this for a project assigned by the Odin Project in the javascript unit.</p>
+<p class = description_of_app><b>Euler #1</b> - A Euler Project solution to the problem "Finding the sum of all multiples of 3 or 5 below 1000". The script runs as an embedded javascript program and displays the result on the webpage. I created this for a project assigned by the Odin Project in the javascript unit.
+<br><a  href="https://github.com/nagro2/Project-Euler-solutions" target="_blank">View Source Code</a>
+</p>
 <br><br>
 
 <a  href="http://htmlpreview.github.io/?https://github.com/nagro2/Project-Euler-solutions/blob/master/problem2.html" target="_blank"> <img class="screenshot1" src="https://www.dropbox.com/s/nsupgx135kgthmo/Euler-Odin%20Problem%202.jpg?raw=1"></a>
-<p class = description_of_app>A Euler Project solution to the problem "Even Fibonacci Numbers". The script runs as an embedded javascript program and displays the result on the webpage. I created this for a project assigned by the Odin Project in the javascript unit.</p>
+<p class = description_of_app><b>Euler #2</b> - A Euler Project solution to the problem "Even Fibonacci Numbers". The script runs as an embedded javascript program and displays the result on the webpage. I created this for a project assigned by the Odin Project in the javascript unit.
+<br><a  href="https://github.com/nagro2/Project-Euler-solutions" target="_blank">View Source Code</a>
+</p>
 <br><br>
 
 <a  href="http://htmlpreview.github.io/?https://github.com/nagro2/Project-Euler-solutions/blob/master/problem3.html" target="_blank"> <img class="screenshot1" src="https://www.dropbox.com/s/d9qewrtpt2yfkw6/Euler-Odin%20Problem%203.jpg?raw=1"></a>
-<p class = description_of_app>A Euler Project solution to the problem "Largest Prime Factor". The script runs as an embedded javascript program and displays the result on the webpage. The Odin Project assignment modifies the requirements of the Euler Project problem by stating " just solve for numbers smaller than 1,000 and don't worry about making it efficient".</p>
+<p class = description_of_app><b>Euler #3</b> - A Euler Project solution to the problem "Largest Prime Factor". The script runs as an embedded javascript program and displays the result on the webpage. The Odin Project assignment modifies the requirements of the Euler Project problem by stating " just solve for numbers smaller than 1,000 and don't worry about making it efficient".
+<br><a  href="https://github.com/nagro2/Project-Euler-solutions" target="_blank">View Source Code</a>
+</p>
 <br><br><br><br>
 
 
-<a  href="http://htmlpreview.github.io/?https://github.com/nagro2/Project-Euler-solutions/blob/master/problem3.html" target="_blank"> <img class="screenshot1" src="https://www.dropbox.com/s/qusdbz4ln74mp54/D40TetherQD.jpg?raw=1"></a>
-<p class = description_of_app>A Python script to control my Nikon D40 camera. Please note that I created this script very quickly for my own use, hence Quick and Dirty". It obtains values for aperture and shutter speed from the D40 and modifies these under GUI control. It has modes for single and multi photo sequences and it can automatically display each photo after it is downloaded to the computer. Interface with the camera is through gphoto2 commands via the bash shell. GUI is implemented with Tkinter.</p>
+<a  href="https://github.com/nagro2/NikonD40-camera-control/blob/master/D40TetherQD.py" target="_blank"> <img class="screenshot1" src="https://www.dropbox.com/s/qusdbz4ln74mp54/D40TetherQD.jpg?raw=1"></a>
+<p class = description_of_app><b>D40 Tether Quick and Dirty</b> - A Python script to control my Nikon D40 camera. Please note that I created this script very quickly for my own use, hence Quick and Dirty". It obtains values for aperture and shutter speed from the D40 and modifies these under GUI control. It has modes for single and multi photo sequences and it can automatically display each photo after it is downloaded to the computer. Interface with the camera is through gphoto2 commands via the bash shell. GUI is implemented with Tkinter.</p>
 <br><br><br><br>
+
+<a  href="https://github.com/nagro2/weather-conditions-from-noaa/blob/master/noaa_weather.pl" target="_blank"> <img class="screenshot1" src="https://www.dropbox.com/s/8uezfepb88fpjud/noaa_weather.jpg?raw=1"></a>
+<p class = description_of_app><b>Weather Conditions</b> - A Perl script to display weather conditions extracted from NOAA's website. Uses regex pattern matching and substitution to parse data from html file.</p>
+<br><br><br><br>
+
+<a  href="https://github.com/nagro2/arduino-thermometer/blob/master/DS18x20-temperature-with-lcd" target="_blank"> <img class="screenshot1" src="https://www.dropbox.com/s/9ncmvvtlx5i2cil/arduino%20ds18b20%20temperature%20with%20lcd.jpg?raw=1"></a>
+<p class = description_of_app><b>Arduino Thermometer</b> - A C program written for Arduino (Arduino "sketch") to read temperature from a ds18x20 1 wire temperature sensor and display the result on a i2c lcd display.</p>
+<br><br><br><br>
+
+<a  href="https://github.com/nagro2/esp8266-client-to-google/blob/master/user_main.c" target="_blank"> <img class="screenshot1" src="https://www.dropbox.com/s/xxmi5lrte91e7ce/esp8266-client-to-google.jpg?raw=1"></a>
+<p class = description_of_app><b>ESP8266 Client to Google</b> - C code written for the esp8266 IOT embedded computer. It connects the esp8266 to a local lan, then makes an http request to google.com and displays the received html code on the esp8266 serial console. The code was created for esp-iot-sdk-v9.2.</p>
+<br><br><br><br>
+
+<a  href="https://github.com/nagro2/esp8266-client-to-google/blob/master/user_main.c" target="_blank"> <img class="screenshot1" src="https://www.dropbox.com/s/xxmi5lrte91e7ce/esp8266-client-to-google.jpg?raw=1"></a>
+<p class = description_of_app><b>ESP8266 Temperature Sender</b> - Lua script code written for the esp8266 IOT embedded computer running NodeMCU OS. reads temperature from DS18B20 using the NODEMCU DS18B20 1 wire code, transmits the temperature to a web server as an http get, sleeps to save power, then repeats.</p>
+<br><br><br><br>
+
 
 <div class="footer_c"> <div class="container">  <p>&copy; 2015 Nicholas Agro</p> </div>
 
