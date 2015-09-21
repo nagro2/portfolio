@@ -16,7 +16,6 @@
           <ul class="nav navbar-nav">
             <li class="active"><a href="/">Welcome</a></li>
            <li><%= link_to(:examples) do %>Portfolio<%end%></li>
-             <li><a href="#contact">Blog</a></li>
             <li><a href="#contact">About</a></li>
             <li><a href="#contact">Contact</a></li>
 
@@ -33,8 +32,8 @@
       <div class="jumbotron">
         <div id="jumbotron2">
         <h1>Nicholas Agro</h1>
-        <p>Welcome to my website. I have been programming for over 30 years and enjoy it tremendously. Some of my programming has been in my employment, but most of it has been on my own. Most recently I have been learning through Odin Bootcamp. My near term goal is employment as a programmer. Here you will find examples of recent programs that I have written. Languages and frameworks covered in the examples include Ruby, Ruby on Rails, Javascript, Jquery, Python, HTML, and CSS.</p>
-			</div>
+        <p>Welcome to my website. I have been programming for over 30 years and enjoy it tremendously. Some of my programming has been in my employment, but most of it has been on my own. Most recently I have been learning through Odin Bootcamp. My near term goal is employment as a programmer. Here you will find examples of recent programs that I have written. Languages / frameworks / platforms covered in the examples include Ruby, Ruby on Rails, Javascript, Jquery, Python, Perl, Luascript, HTML and CSS, Android SDK, ESP8266 IOT, and Arduino.</p>
+	</div>
       </div>
 
 
