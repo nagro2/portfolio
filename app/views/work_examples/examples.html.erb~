@@ -51,7 +51,6 @@
 
 <a  href="https://github.com/nagro2/twitter_api_from_ruby/blob/master/ruby_tweet.rb" target="_blank"> <img class="screenshot1" src="https://www.dropbox.com/s/rgdquwwta9khfmz/ruby_twitter.jpeg?raw=1"></a>
 <p = class = description_of_app><b>Ruby to Twitter</b> - A Ruby program to access Twitter via API. The program's capabilities include creating a tweet, viewing latest tweet from all friends, sending a group tweet, sending direct message, listing all followers, and listing all friends. I completed this as part of the Jumpstart Labs Microblogger tutorial assigned by Odin Bootcamp.
-<br><a  href="https://github.com/nagro2/google_homepage" target="_blank">View Source Code</a>
 </p>
 <br><br>
 
@@ -119,6 +118,10 @@
 
 <a  href="https://github.com/nagro2/hangman/blob/master/hangman.rb" target="_blank"> <img class="screenshot1" src="https://www.dropbox.com/s/qi803mowwa59ghh/hangman.jpg?raw=1"></a>
 <p class = description_of_app><b>Hangman game</b> - This is a Ruby script version of the Hangman game. I created it for an assignment from Odin Bootcamp.</p>
+<br><br><br><br>
+
+<a  href="https://github.com/nagro2/simple-ruby-web-server/tree/master" target="_blank"> <img class="screenshot1" src="https://www.dropbox.com/s/qi803mowwa59ghh/hangman.jpg?raw=1"></a>
+<p class = description_of_app><b>Simple Ruby web server</b> - This is a Ruby script version of the Hangman game. I created it for an assignment from Odin Bootcamp.</p>
 <br><br><br><br>
 
 <div class="footer_c"> <div class="container">  <p>&copy; 2015 Nicholas Agro</p> </div>
