@@ -49,6 +49,12 @@
 </p>
 <br><br>
 
+<a  href="https://github.com/nagro2/twitter_api_from_ruby/blob/master/ruby_tweet.rb" target="_blank"> <img class="screenshot1" src="https://www.dropbox.com/s/rgdquwwta9khfmz/ruby_twitter.jpeg?raw=1"></a>
+<p = class = description_of_app><b>Ruby to Twitter</b> - A Ruby program to access Twitter via API. The program's capabilities include creating a tweet, viewing latest tweet from all friends, sending a group tweet, sending direct message, listing all followers, and listing all friends. I completed this as part of the Jumpstart Labs Microblogger tutorial assigned by Odin Bootcamp.
+<br><a  href="https://github.com/nagro2/google_homepage" target="_blank">View Source Code</a>
+</p>
+<br><br>
+
 <a  href="http://htmlpreview.github.io/?https://github.com/nagro2/google_homepage/blob/master/index.html" target="_blank"> <img class="screenshot1" src="https://www.dropbox.com/s/kob4jfkr8t36dkh/google_homepage.jpg?raw=1"></a>
 <p = class = description_of_app><b>Google Homepage Clone</b> - I completed this for a project assigned by the Odin Project in the HTML/CSS unit. The objective of the project was to use a CSS stylesheet to control the elements of a web page. Features include statically positioned top and bottom headers, icons, a textbox, and more.
 <br><a  href="https://github.com/nagro2/google_homepage" target="_blank">View Source Code</a>
@@ -111,7 +117,7 @@
 <p class = description_of_app><b>Master Mind game</b> - This is a Ruby script version of the Master Mind board game. I created it for an assignment from Odin Bootcamp. Master Mind is a game which involves guessing the colors of four hidden pegs using clues about each guess. It's similar to hangman.</p>
 <br><br><br><br>
 
-<a  href="https://github.com/nagro2/mastermind/tree/master" target="_blank"> <img class="screenshot1" src="https://www.dropbox.com/s/kkx3w6v5lmw6ryl/mastermind.jpg?raw=1"></a>
+<a  href="https://github.com/nagro2/hangman/blob/master/hangman.rb" target="_blank"> <img class="screenshot1" src="https://www.dropbox.com/s/qi803mowwa59ghh/hangman.jpg?raw=1"></a>
 <p class = description_of_app><b>Hangman game</b> - This is a Ruby script version of the Hangman game. I created it for an assignment from Odin Bootcamp.</p>
 <br><br><br><br>
 
