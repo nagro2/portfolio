@@ -44,6 +44,11 @@ the move is valid for the type of piece being moved, the piece is not being move
 </p>
 <br><br>
 
+<a  href="https://github.com/nagro2/chess" target="_blank"> <img class="screenshot1" src="https://www.dropbox.com/s/f5v10xgbtfbopei/Linux%20kernel%20mod%20bug%20fix.png?raw=1"></a>
+<p = class = description_of_app><b>Linux kernel mod, bug fix to chardev.c</b> - An interactive two-player chess game written in Ruby for the final project in the Ruby Programming section of Odin Bootcamp. The chessboard is displayed graphically using ascii chess characters. The program checks each move to confirm 
+the move is valid for the type of piece being moved, the piece is not being moved off the board, the piece being moved belongs to the player, etc. For each move the program checks whether either king has gone into check, and if so, determines whether this has resulted in a checkmate. The program uses OOP methods. For example, each type of chess piece (pawn, rook etc) is defined once as a Class, then each piece on the board is created as an instance of a piece class. Uses YAML to save and restore games to a file. The program was developed using TDD (Top Down Development) techniques with RSpec. The spec file contains 69 tests which confirm that the code is working properly.
+</p>
+<br><br>
 
 <a  href="https://nameless-temple-7233.herokuapp.com/articles" target="_blank"> <img class="screenshot1" src="https://www.dropbox.com/s/o70ptb6ak2zub4w/Blogger.jpg?raw=1"></a>
 <p class= description_of_app><b>Blogger</b> - A blogging application authored in Rails. Blog entries and other information are stored in sqlite databases, which are controlled by Rails models. Articles can be tagged by category, and can have comments from readers.  Includes tools to create, delete and edit articles. User authentication is implemented with Sorcery. Created per assignment from the Odin Project bootcamp / Jumpstart Labs unit on Rails.
@@ -149,7 +154,7 @@ the move is valid for the type of piece being moved, the piece is not being move
 
 
 <a  href="https://github.com/nagro2/simple-ruby-web-server/tree/master" target="_blank"> <img class="screenshot1" src="https://www.dropbox.com/s/sb5mkny4rwmvjhh/ruby%20web%20server.jpg?raw=1"></a>
-<p class = description_of_app><b>Ruby web server</b> - A simple web server written directly in Ruby. It is a proof of concept for creating web servers in Ruby without Rails. Created for an assignment from Odin Project programming bootcamp.</p>
+<p class = description_of_app><b>Ruby web server</b> - A simple web server written in Ruby, as a proof of concept for creating web servers in Ruby without Rails. Created for an assignment from Odin Project programming bootcamp.</p>
 <br><br><br><br>
 
 <div class="footer_c"> <div class="container">  <p>&copy; 2015, 2016 Nicholas Agro</p> </div>

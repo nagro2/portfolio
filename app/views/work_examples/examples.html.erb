@@ -44,6 +44,10 @@ the move is valid for the type of piece being moved, the piece is not being move
 </p>
 <br><br>
 
+<a  href="https://github.com/nagro2/linux-kernel-mod-tutorial-fix" target="_blank"> <img class="screenshot1" src="https://www.dropbox.com/s/f5v10xgbtfbopei/Linux%20kernel%20mod%20bug%20fix.png?raw=1"></a>
+<p = class = description_of_app><b>Linux kernel mod, bug fix to chardev.c</b> - The Linux kernel mod, chardev.c, at http://www.tldp.org/LDP/lkmpg/2.6/html/x569.html failed to compile on Linux kernel 3.13.0-32-generic with error: void value not ignored as it ought to be int ret = unregister_chrdev(Major, DEVICE_NAME); This was due to unregister_chrdev being changed to type void in later kernels. I fixed the error by changing the unregister_chrdev call to a type of void, and it now compiles properly. Full corrected example is listed here.
+</p>
+<br><br>
 
 <a  href="https://nameless-temple-7233.herokuapp.com/articles" target="_blank"> <img class="screenshot1" src="https://www.dropbox.com/s/o70ptb6ak2zub4w/Blogger.jpg?raw=1"></a>
 <p class= description_of_app><b>Blogger</b> - A blogging application authored in Rails. Blog entries and other information are stored in sqlite databases, which are controlled by Rails models. Articles can be tagged by category, and can have comments from readers.  Includes tools to create, delete and edit articles. User authentication is implemented with Sorcery. Created per assignment from the Odin Project bootcamp / Jumpstart Labs unit on Rails.
