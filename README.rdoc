@@ -1,4 +1,4 @@
 == README
 
 Work portfolio created in Rails originally as a Bootcamp Project assignment.
-<tt>rake doc:app</tt>.
+
